@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# About Project 
+This app uses NewsAPI to get various sources and each source can provide major headlines from various sources. It uses react class base component to render content from NewsAPI. 
+Components let you split the UI into independent, reusable pieces, and think about each piece in isolation. This page provides an introduction to the idea of components. 
+
 ## Available Scripts
 
 In the project directory, you can run:
