@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Nigeria building collapse: Race to find survivors as dozens still missing",
+            "description": "Rescue efforts continue through the night in Lagos, with many people feared trapped under rubble.",
+            "url": "http://www.bbc.co.uk/news/world-africa-59125228",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15734/production/_121306878_gettyimages-1236277975.jpg",
+            "publishedAt": "2021-11-02T05:07:25.0596317Z",
+            "content": "Image caption, It is still unclear how many people may be trapped under the rubble\r\nRescuers are working through the night in search of survivors in the Nigerian city of Lagos after a 22-storey high-… [+2445 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "COP26: Minister in wheelchair unable to attend summit",
+            "description": "Karine Elharrar tweets that it is \"sad\" that \"the UN does not provide accessibility to its events\".",
+            "url": "http://www.bbc.co.uk/news/world-59128618",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5000/production/_121308402_tv071696277.jpg",
+            "publishedAt": "2021-11-02T01:22:26.1133166Z",
+            "content": "Image caption, Karine Elharrar, left, said she could not access the conference grounds on Monday (file pic)\r\nAn Israeli minister has said she could not attend the COP26 summit on Monday because it wa… [+1465 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Was Biden asleep or just resting his eyes at COP26?",
+            "description": "Video footage from the climate summit shows US President Joe Biden sitting with his eyes closed.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-59128875",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15234/production/_121308568_p0b1pkl7.jpg",
+            "publishedAt": "2021-11-02T01:22:24.0200879Z",
+            "content": "Video footage has emerged of Joe Biden sitting with his eyes closed at the COP26 climate change summit.\r\nThe US president is among the world leaders who have travelled to the event which he has calle… [+370 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "South Asians react to Kal Penn coming out as gay",
+            "description": "The actor revealed he is now engaged to a man he has been in a relationship with for 11 years.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-59122928",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1B1C/production/_121304960_gettyimages-1175162562.jpg",
+            "publishedAt": "2021-11-02T01:07:23.4450679Z",
+            "content": "By Sam CabralBBC News, Washington\r\nImage source, Getty Images\r\n\"One of us.\" That's what LGBT South Asians are saying after US actor Kal Penn, star of the Harold &amp; Kumar film franchise, came out a… [+3566 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Timed Teaser: Who entered the Rock & Roll Hall of Fame?",
+            "description": "Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go!",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-59121470",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7080/production/_121300882_indexswift.jpg",
+            "publishedAt": "2021-11-02T00:07:29.9202717Z",
+            "content": "Three women, one cheating ex and an adventure. VideoThree women, one cheating ex and an adventure"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Fishing row: France delays sanctions as talks over access continue",
+            "description": "Paris has stepped back from a threat to block British fishing boats from its ports from midnight.",
+            "url": "http://www.bbc.co.uk/news/uk-politics-59127717",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E9BB/production/_121253895_42e2f4fd-8013-4c47-8e8b-42b54ade5992.jpg",
+            "publishedAt": "2021-11-01T23:22:28.9820805Z",
+            "content": "Image caption, French media quoted Mr Macron saying talks on fishing rights would continue with the UK on Tuesday\r\nFrance will delay retaliatory measures against the UK while talks over post-Brexit f… [+2871 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Dr Aaron Beck: Cognitive behavioural therapy pioneer dies aged 100",
+            "description": "Dr Aaron Beck's work is considered revolutionary worldwide for the treatment of mental health.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-59124427",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C184/production/_121304594_gettyimages-595048284.jpg",
+            "publishedAt": "2021-11-01T22:52:18.9197916Z",
+            "content": "Image source, Getty Images\r\nImage caption, Dr Beck's work revolutionised talking therapy and mental health treatment\r\nDr Aaron Beck, an American psychiatrist considered the father of cognitive behavi… [+1980 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "COP26: World leaders promise to end deforestation by 2030",
+            "description": "In the first major deal from Glasgow's climate change meeting, leaders promise to stop cutting down trees.",
+            "url": "http://www.bbc.co.uk/news/science-environment-59088498",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17048/production/_121308249_gettyimages-1173062100-1.jpg",
+            "publishedAt": "2021-11-01T22:37:23.3540832Z",
+            "content": "By Georgina RannardBBC News\r\nImage source, Getty Images\r\nImage caption, Companies cut down trees to create grazing land to feed the world's hunger for meat\r\nA group of leaders at COP26 will sign the … [+5188 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "US Supreme Court hears arguments in controversial Texas abortion case",
+            "description": "The justices will decide whether providers and the government can challenge Texas' abortion ban.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-59125653",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D89A/production/_121305455_gettyimages-1236273792.jpg",
+            "publishedAt": "2021-11-01T20:37:16.8245867Z",
+            "content": "Image source, Getty Images\r\nImage caption, Protesters on both sides held rallies outside the court on Monday\r\nA majority of the US Supreme Court appears likely to allow at least one legal challenge t… [+4726 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Military officers condemn CIA torture as a stain on America",
+            "description": "Military jury asks for clemency in case of Majid Khan and rebukes his alleged treatment by the CIA.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-59124419",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11EB7/production/_110599337_gettyimages-903037.jpg",
+            "publishedAt": "2021-11-01T17:07:23.3960286Z",
+            "content": "Image source, Getty Images\r\nImage caption, Techniques used by the CIA after 9/11 remain extremely controversial\r\nSeven senior US officers serving on a military jury have rebuked the alleged CIA tortu… [+3315 chars]"
+        }
+    ]
+}
